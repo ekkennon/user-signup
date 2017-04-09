@@ -17,7 +17,6 @@
 import webapp2
 import cgi
 import re
-import logging
 
 page_header = """
 	<!DOCTYPE html>
